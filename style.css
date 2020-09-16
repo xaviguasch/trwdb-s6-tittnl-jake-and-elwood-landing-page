@@ -1,4 +1,46 @@
-body {
-  padding: 0;
-  margin: 0;
+* {
+  box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #404040;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+strong {
+  font-weight: 700;
+}
+
+/* main {
+}
+
+.hero {
+  background: transparent;
+  background-image: url('./img/hero-bg.jpg');
+  color: #ffffff;
+  padding: 3em 2em;
+  line-height: 1.5;
+}
+
+.hero--special-text {
+  color: #ffe600;
+}
+
+.image {
+  position: absolute;
+  left: -80px;
+}
+
+.btn-yellow {
+  color: #000000;
+  background: #ffe600;
+  padding: 0.7em 2em;
+  font-weight: bold;
+  border: none;
+  font-size: 0.9rem;
+} */
