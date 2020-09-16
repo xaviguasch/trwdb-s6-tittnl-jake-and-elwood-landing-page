@@ -73,6 +73,17 @@ strong {
   grid-column: 2 / -2;
 }
 
+.footer-logo,
+.footer-text,
+.footer-fineprint {
+  opacity: 0.3;
+}
+
+.footer-fineprint {
+  font-size: 0.75rem;
+  margin-top: 4em;
+}
+
 .social-list {
   order: -1;
   list-style: none;
