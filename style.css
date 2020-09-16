@@ -82,6 +82,16 @@ strong {
   justify-content: center;
 }
 
+.social-link {
+  color: #000;
+  font-size: 1.75rem;
+  margin: 0 0.5em;
+}
+
+.social-link:hover {
+  color: #777;
+}
+
 /* ==================
     hero area
 ===================== */
